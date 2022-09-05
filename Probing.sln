@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probing.LoggingService", "Probing.LoggingService\Probing.LoggingService.csproj", "{AEFBCFE7-50DF-4D42-A351-4F95EA29A1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probing.UnitTests", "Probing.UnitTests\Probing.UnitTests.csproj", "{F49E1B39-AF73-4356-836B-5878B2F74782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFBCFE7-50DF-4D42-A351-4F95EA29A1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFBCFE7-50DF-4D42-A351-4F95EA29A1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFBCFE7-50DF-4D42-A351-4F95EA29A1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFBCFE7-50DF-4D42-A351-4F95EA29A1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49E1B39-AF73-4356-836B-5878B2F74782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49E1B39-AF73-4356-836B-5878B2F74782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49E1B39-AF73-4356-836B-5878B2F74782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49E1B39-AF73-4356-836B-5878B2F74782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BD1E84-BF51-4A11-8340-55422BD27820}
+	EndGlobalSection
+EndGlobal
